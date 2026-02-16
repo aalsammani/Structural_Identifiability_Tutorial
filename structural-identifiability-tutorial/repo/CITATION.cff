@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this tutorial in your research or teaching, please cite it as below."
+title: "Structural Identifiability Analysis: A Comprehensive Tutorial with Julia"
+type: software
+authors:
+  - family-names: "Alsammani"
+    given-names: "Abdallah"
+    email: "aalsammani@desu.edu"
+    affiliation: "Department of Mathematical Sciences, Delaware State University"
+    orcid: ""
+date-released: "2025-01-01"
+url: "https://github.com/YOUR_USERNAME/structural-identifiability-tutorial"
+license: MIT
+keywords:
+  - structural identifiability
+  - parameter estimation
+  - ordinary differential equations
+  - mathematical modeling
+  - systems biology
+  - epidemiology
+  - pharmacokinetics
+  - differential algebra
+  - Julia
+references:
+  - type: article
+    authors:
+      - family-names: "Dong"
+        given-names: "Ruiwen"
+      - family-names: "Goodbrake"
+        given-names: "Christian"
+      - family-names: "Harrington"
+        given-names: "Heather A"
+      - family-names: "Pogudin"
+        given-names: "Gleb"
+    title: "Differential elimination for dynamical models via projections with applications to structural identifiability"
+    journal: "SIAM Journal on Applied Algebra and Geometry"
+    volume: 7
+    issue: 1
+    start: 194
+    end: 235
+    year: 2023

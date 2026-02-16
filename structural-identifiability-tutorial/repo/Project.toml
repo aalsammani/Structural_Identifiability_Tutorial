@@ -1,0 +1,6 @@
+[deps]
+StructuralIdentifiability = "220ca800-aa68-49bb-acd8-6037fa93a544"
+
+[compat]
+StructuralIdentifiability = "0.5"
+julia = "1.6"
