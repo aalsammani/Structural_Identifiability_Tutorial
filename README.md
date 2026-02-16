@@ -1,4 +1,4 @@
-# Structural Identifiability Analysis: A Comprehensive Tutorial
+# Structural Identifiability Analysis: Tutorial
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Julia](https://img.shields.io/badge/Julia-1.6%2B-purple.svg)](https://julialang.org/)
